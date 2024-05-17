@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HafizMHasnain
-- 👀 I’m interested in Java Kotlin jetpack-compose, compose multiplatform, and futter
+- 👀 I’m interested in Java Kotlin jetpack-compose, compose multiplatform, and flutter
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on open-source projects and repositories.
 - 📫 How to reach me through LinkedIn
